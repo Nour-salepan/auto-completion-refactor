@@ -1,7 +1,7 @@
-# efactor code created by traversy and refactored by nour salepan
+## refactor code created by traversy and refactored by nour salepan
 
-## this is very important while l used some techniques to make coding comfortable
+this is very important while l used some techniques to make coding comfortable
 
-## this is auto-complete app with capitals while using json file provided by traversy media
+this is auto-complete app with capitals while using json file provided by traversy media
 
-#### finally thanks to brad who always creates facinating contents
+finally thanks to brad who always creates facinating contents
